@@ -1,5 +1,5 @@
 ## Assignment - 2(a): Personal Home Page
-#### URL of website:- 2021201034.github.io
+#### URL of website:- debashish05.github.io
 
 a ) I have made 4 tabs - Home, Education, Experience, Contacts in the navigation bar. 
 b ) I have used CSS and Javascript document.getElementById("home").style.display = "block" and "none" to load the content of each tab without refreshing the page. This will allow us to toogle content without refreshing.
